@@ -83,3 +83,20 @@ C:\Users\Neifa Ulil\Source\Repos\fatimahazzaroh\GUI-1\GUI 1\Dekstop_Datagridview
 C:\Users\Neifa Ulil\Source\Repos\fatimahazzaroh\GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.pdb
 C:\Users\Neifa Ulil\Source\Repos\fatimahazzaroh\GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.genruntimeconfig.cache
 C:\Users\Neifa Ulil\Source\Repos\fatimahazzaroh\GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\ref\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.exe
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.deps.json
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.runtimeconfig.json
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.Form1.resources
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.FormDataBaru.resources
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\refint\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.genruntimeconfig.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\PBO-Tugas-GUI-1\GUI 1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\ref\Dekstop_Datagridview.dll

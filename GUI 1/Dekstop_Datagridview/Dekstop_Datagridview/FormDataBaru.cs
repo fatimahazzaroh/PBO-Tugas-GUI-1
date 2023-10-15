@@ -24,15 +24,15 @@ namespace Dekstop_Datagridview
         }
         public PNS GetPNS()
         {
-            PNS pns1 = new PNS();
-            pns1.nama = tbNama.Text;
-            pns1.nip = long.Parse(tbNip.Text);
-            pns1.gaji = long.Parse(tbGaji.Text);
-            pns1.tanggalLahir = DateOnly.Parse(dateTimePicker1.Value.ToShortDateString());
-            pns1.tempatLahir = tbTanggal.Text;
-            pns1.bidang = cbBidang.Text;
-            pns1.noTelp = tbTelp.Text;
-            return pns1;
+            PNS pns_baru = new PNS();
+            pns_baru.nama = tbNama.Text;
+            pns_baru.nip = long.Parse(tbNip.Text);
+            pns_baru.gaji = long.Parse(tbGaji.Text);
+            pns_baru.tanggalLahir = DateOnly.Parse(dateTimePicker1.Value.ToShortDateString());
+            pns_baru.tempatLahir = tbTanggal.Text;
+            pns_baru.bidang = cbBidang.Text;
+            pns_baru.noTelp = tbTelp.Text;
+            return pns_baru;
         }
 
         private void btnBatal_Click(object sender, EventArgs e)

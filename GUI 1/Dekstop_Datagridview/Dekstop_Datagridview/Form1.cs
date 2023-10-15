@@ -18,8 +18,6 @@ namespace Dekstop_Datagridview
             pns1.bidang = "Agrikultur";
             pns1.noTelp = "081221389123";
             dataGridView1.Rows.Add(pns1.nama, pns1.nip, pns1.gaji, pns1.tanggalLahir, pns1.tempatLahir, pns1.bidang, pns1.noTelp);
-
-
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -38,7 +36,6 @@ namespace Dekstop_Datagridview
                     frmDataBaru.Close();
                 }
             }
-
         }
 
         private void Form1_Load(object sender, EventArgs e)

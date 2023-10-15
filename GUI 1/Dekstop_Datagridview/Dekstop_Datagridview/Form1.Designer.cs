@@ -44,13 +44,12 @@
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Nama, NIP, Gaji, TanggalLahir, TempatLahir, Bidang, noTelp });
-            dataGridView1.Location = new Point(22, 26);
-            dataGridView1.Margin = new Padding(6, 6, 6, 6);
+            dataGridView1.Location = new Point(12, 12);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.ReadOnly = true;
             dataGridView1.RowHeadersWidth = 82;
             dataGridView1.RowTemplate.Height = 25;
-            dataGridView1.Size = new Size(1423, 747);
+            dataGridView1.Size = new Size(766, 350);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -112,10 +111,9 @@
             // 
             // btnTambah
             // 
-            btnTambah.Location = new Point(652, 847);
-            btnTambah.Margin = new Padding(6, 6, 6, 6);
+            btnTambah.Location = new Point(351, 397);
             btnTambah.Name = "btnTambah";
-            btnTambah.Size = new Size(139, 49);
+            btnTambah.Size = new Size(75, 23);
             btnTambah.TabIndex = 1;
             btnTambah.Text = "Tambah";
             btnTambah.UseVisualStyleBackColor = true;
@@ -123,12 +121,11 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(13F, 32F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1486, 960);
+            ClientSize = new Size(800, 450);
             Controls.Add(btnTambah);
             Controls.Add(dataGridView1);
-            Margin = new Padding(6, 6, 6, 6);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;
