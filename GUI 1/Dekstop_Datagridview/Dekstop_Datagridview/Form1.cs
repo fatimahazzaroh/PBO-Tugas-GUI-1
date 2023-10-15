@@ -32,7 +32,7 @@ namespace Dekstop_Datagridview
             using (FormDataBaru frmDataBaru = new FormDataBaru())
             {
                 if (frmDataBaru.ShowDialog() == DialogResult.OK)
-                { 
+                {
                     PNS pns_baru = frmDataBaru.GetPNS();
                     dataGridView1.Rows.Add(pns_baru.nama, pns_baru.nip, pns_baru.gaji, pns_baru.tanggalLahir, pns_baru.tempatLahir, pns_baru.bidang, pns_baru.noTelp);
                     frmDataBaru.Close();

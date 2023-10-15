@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             dataGridView1 = new DataGridView();
-            btnTambah = new Button();
             Nama = new DataGridViewTextBoxColumn();
             NIP = new DataGridViewTextBoxColumn();
             Gaji = new DataGridViewTextBoxColumn();
@@ -37,6 +36,7 @@
             TempatLahir = new DataGridViewTextBoxColumn();
             Bidang = new DataGridViewTextBoxColumn();
             noTelp = new DataGridViewTextBoxColumn();
+            btnTambah = new Button();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
             SuspendLayout();
             // 
@@ -44,65 +44,91 @@
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Columns.AddRange(new DataGridViewColumn[] { Nama, NIP, Gaji, TanggalLahir, TempatLahir, Bidang, noTelp });
-            dataGridView1.Location = new Point(12, 12);
+            dataGridView1.Location = new Point(22, 26);
+            dataGridView1.Margin = new Padding(6, 6, 6, 6);
             dataGridView1.Name = "dataGridView1";
+            dataGridView1.ReadOnly = true;
+            dataGridView1.RowHeadersWidth = 82;
             dataGridView1.RowTemplate.Height = 25;
-            dataGridView1.Size = new Size(766, 350);
+            dataGridView1.Size = new Size(1423, 747);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
+            // Nama
+            // 
+            Nama.HeaderText = "Nama";
+            Nama.MinimumWidth = 10;
+            Nama.Name = "Nama";
+            Nama.ReadOnly = true;
+            Nama.Width = 200;
+            // 
+            // NIP
+            // 
+            NIP.HeaderText = "NIP";
+            NIP.MinimumWidth = 10;
+            NIP.Name = "NIP";
+            NIP.ReadOnly = true;
+            NIP.Width = 200;
+            // 
+            // Gaji
+            // 
+            Gaji.HeaderText = "Gaji";
+            Gaji.MinimumWidth = 10;
+            Gaji.Name = "Gaji";
+            Gaji.ReadOnly = true;
+            Gaji.Width = 200;
+            // 
+            // TanggalLahir
+            // 
+            TanggalLahir.HeaderText = "Tanggal Lahir";
+            TanggalLahir.MinimumWidth = 10;
+            TanggalLahir.Name = "TanggalLahir";
+            TanggalLahir.ReadOnly = true;
+            TanggalLahir.Width = 200;
+            // 
+            // TempatLahir
+            // 
+            TempatLahir.HeaderText = "Tempat Lahir";
+            TempatLahir.MinimumWidth = 10;
+            TempatLahir.Name = "TempatLahir";
+            TempatLahir.ReadOnly = true;
+            TempatLahir.Width = 200;
+            // 
+            // Bidang
+            // 
+            Bidang.HeaderText = "Bidang";
+            Bidang.MinimumWidth = 10;
+            Bidang.Name = "Bidang";
+            Bidang.ReadOnly = true;
+            Bidang.Width = 200;
+            // 
+            // noTelp
+            // 
+            noTelp.HeaderText = "No. Telepon";
+            noTelp.MinimumWidth = 10;
+            noTelp.Name = "noTelp";
+            noTelp.ReadOnly = true;
+            noTelp.Width = 200;
+            // 
             // btnTambah
             // 
-            btnTambah.Location = new Point(351, 397);
+            btnTambah.Location = new Point(652, 847);
+            btnTambah.Margin = new Padding(6, 6, 6, 6);
             btnTambah.Name = "btnTambah";
-            btnTambah.Size = new Size(75, 23);
+            btnTambah.Size = new Size(139, 49);
             btnTambah.TabIndex = 1;
             btnTambah.Text = "Tambah";
             btnTambah.UseVisualStyleBackColor = true;
             btnTambah.Click += btnTambah_Click;
             // 
-            // Nama
-            // 
-            Nama.HeaderText = "Nama";
-            Nama.Name = "Nama";
-            // 
-            // NIP
-            // 
-            NIP.HeaderText = "NIP";
-            NIP.Name = "NIP";
-            // 
-            // Gaji
-            // 
-            Gaji.HeaderText = "Gaji";
-            Gaji.Name = "Gaji";
-            // 
-            // TanggalLahir
-            // 
-            TanggalLahir.HeaderText = "Tanggal Lahir";
-            TanggalLahir.Name = "TanggalLahir";
-            // 
-            // TempatLahir
-            // 
-            TempatLahir.HeaderText = "Tempat Lahir";
-            TempatLahir.Name = "TempatLahir";
-            // 
-            // Bidang
-            // 
-            Bidang.HeaderText = "Bidang";
-            Bidang.Name = "Bidang";
-            // 
-            // noTelp
-            // 
-            noTelp.HeaderText = "No. Telepon";
-            noTelp.Name = "noTelp";
-            // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(13F, 32F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(1486, 960);
             Controls.Add(btnTambah);
             Controls.Add(dataGridView1);
+            Margin = new Padding(6, 6, 6, 6);
             Name = "Form1";
             Text = "Form1";
             Load += Form1_Load;

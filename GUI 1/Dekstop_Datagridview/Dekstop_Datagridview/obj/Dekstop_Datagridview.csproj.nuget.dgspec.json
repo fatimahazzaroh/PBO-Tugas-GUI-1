@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\KULIAH SISTEM INFORMASI\\SEMESTER 3\\PBO\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj": {}
+    "C:\\Users\\Neifa Ulil\\Source\\Repos\\fatimahazzaroh\\GUI-1\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj": {}
   },
   "projects": {
-    "D:\\KULIAH SISTEM INFORMASI\\SEMESTER 3\\PBO\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj": {
+    "C:\\Users\\Neifa Ulil\\Source\\Repos\\fatimahazzaroh\\GUI-1\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\KULIAH SISTEM INFORMASI\\SEMESTER 3\\PBO\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
+        "projectUniqueName": "C:\\Users\\Neifa Ulil\\Source\\Repos\\fatimahazzaroh\\GUI-1\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
         "projectName": "Dekstop_Datagridview",
-        "projectPath": "D:\\KULIAH SISTEM INFORMASI\\SEMESTER 3\\PBO\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
-        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\KULIAH SISTEM INFORMASI\\SEMESTER 3\\PBO\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\obj\\",
+        "projectPath": "C:\\Users\\Neifa Ulil\\Source\\Repos\\fatimahazzaroh\\GUI-1\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\Dekstop_Datagridview.csproj",
+        "packagesPath": "C:\\Users\\Neifa Ulil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Neifa Ulil\\Source\\Repos\\fatimahazzaroh\\GUI-1\\GUI 1\\Dekstop_Datagridview\\Dekstop_Datagridview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Neifa Ulil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -62,7 +62,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
