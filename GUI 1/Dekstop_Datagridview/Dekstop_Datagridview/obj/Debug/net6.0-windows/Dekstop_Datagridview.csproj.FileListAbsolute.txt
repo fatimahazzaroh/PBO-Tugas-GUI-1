@@ -1,0 +1,68 @@
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.exe
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.deps.json
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.runtimeconfig.json
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.GenerateResource.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfoInputs.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfo.cs
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.CoreCompileInputs.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\refint\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.genruntimeconfig.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\ref\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.Form1.resources
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\Introducing C#\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.FormDataBaru.resources
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.exe
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.deps.json
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.runtimeconfig.json
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.dll
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.Form1.resources
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.FormDataBaru.resources
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.GenerateResource.cache
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfo.cs
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.dll
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\refint\Dekstop_Datagridview.dll
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.genruntimeconfig.cache
+C:\Users\LENOVO\Source\Repos\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\ref\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.Form1.resources
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.FormDataBaru.resources
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.GenerateResource.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\refint\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.exe
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.deps.json
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.runtimeconfig.json
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.dll
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.genruntimeconfig.cache
+C:\Users\ASUS\Source\Repos\fatimahazzaroh\pbo-Tugas-data-grid-view\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\ref\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.exe
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.deps.json
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.runtimeconfig.json
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\bin\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.Form1.resources
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.FormDataBaru.resources
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.GenerateResource.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.GeneratedMSBuildEditorConfig.editorconfig
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfoInputs.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.AssemblyInfo.cs
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.csproj.CoreCompileInputs.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\refint\Dekstop_Datagridview.dll
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.pdb
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\Dekstop_Datagridview.genruntimeconfig.cache
+D:\KULIAH SISTEM INFORMASI\SEMESTER 3\PBO\gui1\Dekstop_Datagridview\Dekstop_Datagridview\obj\Debug\net6.0-windows\ref\Dekstop_Datagridview.dll
