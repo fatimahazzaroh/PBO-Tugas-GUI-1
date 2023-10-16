@@ -14,7 +14,7 @@ namespace Dekstop_Datagridview
             pns1.nip = 222410101064;
             pns1.gaji = 2000000;
             pns1.tanggalLahir = new DateOnly(2004, 05, 17);
-            pns1.tempatLahir = "Metro";
+            pns1.tempatLahir = "Metro P";
             pns1.bidang = "Agrikultur";
             pns1.noTelp = "081221389123";
             dataGridView1.Rows.Add(pns1.nama, pns1.nip, pns1.gaji, pns1.tanggalLahir, pns1.tempatLahir, pns1.bidang, pns1.noTelp);
@@ -52,5 +52,6 @@ namespace Dekstop_Datagridview
         public string tempatLahir { get; set; }
         public string bidang { get; set; }
         public string noTelp { get; set; }
+        
     }
 }
