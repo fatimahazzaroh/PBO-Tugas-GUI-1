@@ -18,10 +18,6 @@ namespace Dekstop_Datagridview
 
         }
 
-        private void btnSimpan_Click(object sender, EventArgs e)
-        {
-            this.DialogResult = DialogResult.OK;
-        }
         public PNS GetPNS()
         {
             PNS pns_baru = new PNS();
@@ -33,6 +29,11 @@ namespace Dekstop_Datagridview
             pns_baru.bidang = cbBidang.Text;
             pns_baru.noTelp = tbTelp.Text;
             return pns_baru;
+        }
+
+        private void btnSimpan_Click(object sender, EventArgs e)
+        {
+            this.DialogResult = DialogResult.OK;
         }
 
         private void btnBatal_Click(object sender, EventArgs e)
