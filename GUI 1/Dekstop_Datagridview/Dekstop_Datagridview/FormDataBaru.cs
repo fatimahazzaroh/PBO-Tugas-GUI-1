@@ -25,7 +25,7 @@ namespace Dekstop_Datagridview
             pns_baru.nip = long.Parse(tbNip.Text);
             pns_baru.gaji = long.Parse(tbGaji.Text);
             pns_baru.tanggalLahir = DateOnly.Parse(dateTimePicker1.Value.ToShortDateString());
-            pns_baru.tempatLahir = tbTanggal.Text;
+            pns_baru.tempatLahir = tbTempat.Text;
             pns_baru.bidang = cbBidang.Text;
             pns_baru.noTelp = tbTelp.Text;
             return pns_baru;

@@ -42,7 +42,7 @@
             label6 = new Label();
             cbBidang = new ComboBox();
             label7 = new Label();
-            tbTanggal = new TextBox();
+            tbTempat = new TextBox();
             label8 = new Label();
             tbTelp = new TextBox();
             SuspendLayout();
@@ -176,13 +176,13 @@
             label7.TabIndex = 13;
             label7.Text = "Tempat Lahir :";
             // 
-            // tbTanggal
+            // tbTempat
             // 
-            tbTanggal.Location = new Point(221, 249);
-            tbTanggal.Name = "tbTanggal";
-            tbTanggal.Size = new Size(386, 23);
-            tbTanggal.TabIndex = 14;
-            tbTanggal.TextChanged += textBox2_TextChanged;
+            tbTempat.Location = new Point(221, 249);
+            tbTempat.Name = "tbTempat";
+            tbTempat.Size = new Size(386, 23);
+            tbTempat.TabIndex = 14;
+            tbTempat.TextChanged += textBox2_TextChanged;
             // 
             // label8
             // 
@@ -209,7 +209,7 @@
             ClientSize = new Size(800, 450);
             Controls.Add(tbTelp);
             Controls.Add(label8);
-            Controls.Add(tbTanggal);
+            Controls.Add(tbTempat);
             Controls.Add(label7);
             Controls.Add(cbBidang);
             Controls.Add(label6);
@@ -247,7 +247,7 @@
         private Label label6;
         private ComboBox cbBidang;
         private Label label7;
-        private TextBox tbTanggal;
+        private TextBox tbTempat;
         private Label label8;
         private TextBox tbTelp;
     }
