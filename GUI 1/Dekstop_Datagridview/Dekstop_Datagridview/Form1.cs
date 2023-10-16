@@ -83,6 +83,26 @@ namespace Dekstop_Datagridview
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox1_TextChanged_1(object sender, EventArgs e)
+        {
+
+        }
     }
     public class PNS
     {
@@ -93,6 +113,6 @@ namespace Dekstop_Datagridview
         public string tempatLahir { get; set; }
         public string bidang { get; set; }
         public string noTelp { get; set; }
-        
+
     }
 }
