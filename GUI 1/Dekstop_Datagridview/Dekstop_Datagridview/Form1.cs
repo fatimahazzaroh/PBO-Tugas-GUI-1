@@ -17,7 +17,28 @@ namespace Dekstop_Datagridview
             pns1.tempatLahir = "Metro P";
             pns1.bidang = "Agrikultur";
             pns1.noTelp = "081221389123";
+
+            PNS pns2 = new PNS();
+            pns2.nama = "FAREK";
+            pns2.nip = 222410101067;
+            pns2.gaji = 2000000;
+            pns2.tanggalLahir = new DateOnly(2008, 07, 22);
+            pns2.tempatLahir = "lUMPUR";
+            pns2.bidang = "Agrikultur";
+            pns2.noTelp = "081226669123";
+
+            PNS pns3 = new PNS();
+            pns3.nama = "Rapijo";
+            pns3.nip = 222410101087;
+            pns3.gaji = 2000;
+            pns3.tanggalLahir = new DateOnly(2000, 08, 11);
+            pns3.tempatLahir = "Banyuwangi";
+            pns3.bidang = "Agrikultur";
+            pns3.noTelp = "0812266699099";
+
             dataGridView1.Rows.Add(pns1.nama, pns1.nip, pns1.gaji, pns1.tanggalLahir, pns1.tempatLahir, pns1.bidang, pns1.noTelp);
+            dataGridView1.Rows.Add(pns2.nama, pns2.nip, pns2.gaji, pns2.tanggalLahir, pns2.tempatLahir, pns2.bidang, pns2.noTelp);
+            dataGridView1.Rows.Add(pns3.nama, pns3.nip, pns3.gaji, pns3.tanggalLahir, pns3.tempatLahir, pns3.bidang, pns3.noTelp);
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
